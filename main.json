@@ -37,7 +37,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"main.json#start"
+                 "value":"{<lobby>\/erfas-spaces-north.json#start_toppoint}"
                 }],
          "type":"tilelayer",
          "visible":true,
