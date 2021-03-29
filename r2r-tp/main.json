@@ -26,6 +26,12 @@
          "id":10,
          "name":"exit_main",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"exitUrl",
+                 "type":"string",
+                 "value":"\/_\/global\/c0c0bird.codeberg.page\/main.json#start_toppoint"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":80,
