@@ -49,6 +49,16 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/www.youtube.com\/embed\/70Npi6PccBk?t=9s"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"action"
+                }, 
+                {
+                 "name":"openWebsiteTriggerMessage",
+                 "type":"string",
+                 "value":"To play Monty Python's \"The Lumberjack Song\" via youtube press [Space] - Um das \"Holzf\u00e4ller-Lied\" von Monty Python \u00fcber youtube abzuspielen, bitte die [Leertaste] dr\u00fccken."
                 }],
          "type":"tilelayer",
          "visible":true,
