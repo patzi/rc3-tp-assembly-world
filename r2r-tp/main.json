@@ -48,7 +48,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/_\/global\/raw.githubusercontent.com\/Chaotikum\/2dmap\/master\/main.json"
+                 "value":"\/_\/global\/raw.githubusercontent.com\/Chaotikum\/2dmap\/master\/luebeck\/innenstadt.json#fromToppoint"
                 }],
          "type":"tilelayer",
          "visible":true,
