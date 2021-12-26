@@ -30,7 +30,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/_\/global\/c0c0bird.github.io\/chaos-world\/main.json#start_hamburg"
+                 "value":"world:\/\/lobby\/main.json"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -48,7 +48,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/_\/global\/raw.githubusercontent.com\/Chaotikum\/2dmap\/master\/luebeck\/innenstadt.json#fromToppoint"
+                 "value":"world:\/\/chaotikum\/main.json"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -107,7 +107,7 @@
                 {
                  "name":"openWebsiteTrigger",
                  "type":"string",
-                 "value":"action"
+                 "value":"onaction"
                 }, 
                 {
                  "name":"openWebsiteTriggerMessage",
@@ -131,6 +131,16 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/www.ndr.de\/fernsehen\/sendungen\/extra_3\/Realer-Irrsinn-Luftreinigungsgeraete-auf-neuem-Radweg-in-Kiel,extra18570.html"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
+                 "name":"openWebsiteTriggerMessage",
+                 "type":"string",
+                 "value":"To play extra3 movie about air filters on bicycleway press [SPACE] - Um den extra3 Beitrag \u00fcber die Luftfilter auf dem Radweg anzuschauen [Leertaste] dr\u00fccken. "
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -148,7 +158,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"\/sounds\/bbc\/bbc_household-_07027216.mp3"
+                 "value":"sounds\/bbc\/bbc_household-_07027216.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -166,7 +176,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"\/sounds\/bbc\/bbc_office---p_07071110.mp3"
+                 "value":"sounds\/bbc\/bbc_office---p_07071110.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -184,7 +194,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"\/sounds\/bbc\/bbc_windy-atmo_nhu0501916.mp3"
+                 "value":"sounds\/bbc\/bbc_windy-atmo_nhu0501916.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -434,12 +444,6 @@
  "nextlayerid":33,
  "nextobjectid":1,
  "orientation":"orthogonal",
- "properties":[
-        {
-         "name":"exitUrl",
-         "type":"string",
-         "value":"\/_\/global\/c0c0bird.codeberg.page\/main.json#start_lounge"
-        }],
  "renderorder":"right-down",
  "tiledversion":"1.7.2",
  "tileheight":32,
