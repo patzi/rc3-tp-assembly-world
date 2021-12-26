@@ -609,16 +609,6 @@
          "spacing":0,
          "tilecount":64,
          "tileheight":32,
-         "tiles":[
-                {
-                 "id":0,
-                 "properties":[
-                        {
-                         "name":"tilesetCopyright",
-                         "type":"string",
-                         "value":"cc-by-sa cert.ccc.de https:\/\/tiles.rc3.world\/community\/cert\/LICENSE.md"
-                        }]
-                }],
          "tilewidth":32
         }, 
         {
@@ -714,16 +704,6 @@
          "spacing":0,
          "tilecount":256,
          "tileheight":32,
-         "tiles":[
-                {
-                 "id":0,
-                 "properties":[
-                        {
-                         "name":"tilesetCopyright",
-                         "type":"string",
-                         "value":"CC0 https:\/\/tiles.rc3.world\/rc3-2020\/Readme-Mullana-Tilesets.pdf"
-                        }]
-                }],
          "tilewidth":32
         }, 
         {
