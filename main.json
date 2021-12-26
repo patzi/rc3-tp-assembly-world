@@ -441,7 +441,7 @@
          "value":"\/_\/global\/c0c0bird.codeberg.page\/main.json#start_lounge"
         }],
  "renderorder":"right-down",
- "tiledversion":"1.5.0",
+ "tiledversion":"1.7.2",
  "tileheight":32,
  "tilesets":[
         {
@@ -452,6 +452,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"divoc-functional",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CC0 based on https:\/\/tiles.rc3.world\/rc3-2020\/Readme-Mullana-Tilesets.pdf for divoc https:\/\/c0c0bird.codeberg.page\/tilesets\/divoc-functional.png"
+                }],
          "spacing":0,
          "tilecount":256,
          "tileheight":32,
@@ -465,6 +471,12 @@
          "imagewidth":480,
          "margin":0,
          "name":"cija_32x32_expansion for Pipoya_CC0",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CC0 https:\/\/github.com\/cijavel\/tileset_Bytewerk"
+                }],
          "spacing":0,
          "tilecount":1995,
          "tileheight":32,
@@ -478,6 +490,12 @@
          "imagewidth":288,
          "margin":0,
          "name":"mapUtilities",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CC0 https:\/\/tiles.rc3.world\/rc3-2020\/Readme-Mullana-Tilesets.pdf"
+                }],
          "spacing":0,
          "tilecount":9,
          "tileheight":32,
@@ -501,6 +519,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"tilesets_deviant_milkian_1",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Based on tiles by First Seed Material for Rpg Maker 2003. Converted by milkian https:\/\/www.deviantart.com\/milkian\/art\/Tilesets-FSM-RM2K3-para-VX-Ace-Set-Escritorio-651542743"
+                }],
          "spacing":0,
          "tilecount":256,
          "tileheight":32,
@@ -543,6 +567,16 @@
          "spacing":0,
          "tilecount":64,
          "tileheight":32,
+         "tiles":[
+                {
+                 "id":0,
+                 "properties":[
+                        {
+                         "name":"tilesetCopyright",
+                         "type":"string",
+                         "value":"cc-py-sa cert.ccc.de https:\/\/tiles.rc3.world\/community\/cert\/LICENSE.md"
+                        }]
+                }],
          "tilewidth":32
         }, 
         {
@@ -579,6 +613,12 @@
          "imagewidth":64,
          "margin":0,
          "name":"logo",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"https:\/\/toppoint.de\/"
+                }],
          "spacing":0,
          "tilecount":4,
          "tileheight":32,
@@ -608,6 +648,16 @@
          "spacing":0,
          "tilecount":256,
          "tileheight":32,
+         "tiles":[
+                {
+                 "id":0,
+                 "properties":[
+                        {
+                         "name":"tilesetCopyright",
+                         "type":"string",
+                         "value":"CC0 https:\/\/tiles.rc3.world\/rc3-2020\/Readme-Mullana-Tilesets.pdf"
+                        }]
+                }],
          "tilewidth":32
         }, 
         {
@@ -625,6 +675,6 @@
         }],
  "tilewidth":32,
  "type":"map",
- "version":1.5,
+ "version":"1.6",
  "width":100
 }
