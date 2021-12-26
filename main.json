@@ -249,6 +249,11 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"intercom"
+                }, 
+                {
+                 "name":"jitsiTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -267,6 +272,11 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"toppoint_lounge"
+                }, 
+                {
+                 "name":"jitsiTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
