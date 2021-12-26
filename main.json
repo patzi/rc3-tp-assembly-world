@@ -444,6 +444,12 @@
  "nextlayerid":33,
  "nextobjectid":1,
  "orientation":"orthogonal",
+ "properties":[
+        {
+         "name":"mapCopyright",
+         "type":"string",
+         "value":"## Sounds\n\n### BBC\n\nBBC Soundfiles are provided free under the [Remarc License](https:\/\/github.com\/bbcarchdev\/Remarc\/blob\/master\/doc\/2016.09.27_RemArc_Content%20licence_Terms%20of%20Use_final.pdf) via [BBC Sound Effects](https:\/\/sound-effects.bbcrewind.co.uk\/search) for **non-commercial** use only.\n\n* [bbc_household-_07027216.mp3](https:\/\/sound-effects.bbcrewind.co.uk\/search?q=07027216)\n* [bbc_office---p_07071110.mp3](https:\/\/sound-effects.bbcrewind.co.uk\/search?q=07071110)\n* [bbc_windy-atmo_nhu0501916.mp3](https:\/\/sound-effects.bbcrewind.co.uk\/search?q=NHU05019160)"
+        }],
  "renderorder":"right-down",
  "tiledversion":"1.7.2",
  "tileheight":32,
