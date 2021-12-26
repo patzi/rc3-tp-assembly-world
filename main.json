@@ -480,6 +480,16 @@
          "spacing":0,
          "tilecount":1995,
          "tileheight":32,
+         "tiles":[
+                {
+                 "id":0,
+                 "properties":[
+                        {
+                         "name":"tilesetCopyright",
+                         "type":"string",
+                         "value":"cc0 https:\/\/tiles.rc3.world\/community\/bytewerk\/"
+                        }]
+                }],
          "tilewidth":32
         }, 
         {
@@ -523,7 +533,7 @@
                 {
                  "name":"tilesetCopyright",
                  "type":"string",
-                 "value":"Based on tiles by First Seed Material for Rpg Maker 2003. Converted by milkian https:\/\/www.deviantart.com\/milkian\/art\/Tilesets-FSM-RM2K3-para-VX-Ace-Set-Escritorio-651542743"
+                 "value":"These tiles were originally created by First Seed Material for Rpg Maker 2003. And converted by [milkian](https:\/\/www.deviantart.com\/milkian) to be used in Rpg Maker VX or VX Ace. https:\/\/www.deviantart.com\/milkian\/art\/Tilesets-FSM-RM2K3-para-VX-Ace-Set-Escritorio-651542743"
                 }],
          "spacing":0,
          "tilecount":256,
@@ -538,9 +548,25 @@
          "imagewidth":512,
          "margin":0,
          "name":"AceSet-Hospital",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"These tiles were originally created by First Seed Material for Rpg Maker 2003. And converted by [milkian](https:\/\/www.deviantart.com\/milkian) to be used in Rpg Maker VX or VX Ace. https:\/\/www.deviantart.com\/milkian\/art\/Tilesets-FSM-RM2K3-para-VX-Ace-Set-Hospital-651534818"
+                }],
          "spacing":0,
          "tilecount":256,
          "tileheight":32,
+         "tiles":[
+                {
+                 "id":0,
+                 "properties":[
+                        {
+                         "name":"tilesetCopyright",
+                         "type":"string",
+                         "value":"These tiles were originally created by First Seed Material for Rpg Maker 2003. And converted by [milkian](https:\/\/www.deviantart.com\/milkian) to be used in Rpg Maker VX or VX Ace."
+                        }]
+                }],
          "tilewidth":32
         }, 
         {
@@ -551,6 +577,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"food_and_drinks",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"cc-by-sa cert.ccc.de https:\/\/tiles.rc3.world\/community\/cert\/LICENSE.md"
+                }],
          "spacing":0,
          "tilecount":1024,
          "tileheight":32,
@@ -564,6 +596,12 @@
          "imagewidth":256,
          "margin":0,
          "name":"leipzig_fair_set",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"cc-by-sa cert.ccc.de https:\/\/tiles.rc3.world\/community\/cert\/LICENSE.md"
+                }],
          "spacing":0,
          "tilecount":64,
          "tileheight":32,
@@ -574,7 +612,7 @@
                         {
                          "name":"tilesetCopyright",
                          "type":"string",
-                         "value":"cc-py-sa cert.ccc.de https:\/\/tiles.rc3.world\/community\/cert\/LICENSE.md"
+                         "value":"cc-by-sa cert.ccc.de https:\/\/tiles.rc3.world\/community\/cert\/LICENSE.md"
                         }]
                 }],
          "tilewidth":32
@@ -587,6 +625,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"furniture",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"cc-by-sa cert.ccc.de https:\/\/tiles.rc3.world\/community\/cert\/LICENSE.md"
+                }],
          "spacing":0,
          "tilecount":1024,
          "tileheight":32,
@@ -600,6 +644,12 @@
          "imagewidth":192,
          "margin":0,
          "name":"TOPPOINT_r2r",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"made with https:\/\/github.com\/malteschmitz\/r2r"
+                }],
          "spacing":0,
          "tilecount":12,
          "tileheight":32,
@@ -632,6 +682,12 @@
          "imagewidth":320,
          "margin":0,
          "name":"verkehrszeichen",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"extra3 logo copyright ndr.de extra3 - Luftfilter cc-by-sa patzi@toppoint.de - Verkehrszeichen gemeinfrei"
+                }],
          "spacing":0,
          "tilecount":100,
          "tileheight":32,
@@ -645,6 +701,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"rc3-mullana-functionary",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CC0 https:\/\/tiles.rc3.world\/rc3-2020\/Readme-Mullana-Tilesets.pdf"
+                }],
          "spacing":0,
          "tilecount":256,
          "tileheight":32,
@@ -668,6 +730,12 @@
          "imagewidth":320,
          "margin":0,
          "name":"texte_exits",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Chaotikum logo by https:\/\/chaotikum.org\/; Text cc0"
+                }],
          "spacing":0,
          "tilecount":100,
          "tileheight":32,
