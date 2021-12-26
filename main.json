@@ -46,7 +46,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"exitUrl",
+                 "name":"BACKexitUrl",
                  "type":"string",
                  "value":"world:\/\/chaotikum\/main.json"
                 }],
