@@ -338,6 +338,11 @@
                  "name":"jitsiTrigger",
                  "type":"string",
                  "value":"onaction"
+                }, 
+                {
+                 "name":"jitsiTriggerMessage",
+                 "type":"string",
+                 "value":"Press SPACE to join Jitsi-Doorcam."
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -361,6 +366,11 @@
                  "name":"jitsiTrigger",
                  "type":"string",
                  "value":"onaction"
+                }, 
+                {
+                 "name":"jitsiTriggerMessage",
+                 "type":"string",
+                 "value":"Press SPACE to join Jitsi-Lounge"
                 }],
          "type":"tilelayer",
          "visible":true,
