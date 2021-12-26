@@ -500,16 +500,6 @@
          "spacing":0,
          "tilecount":1995,
          "tileheight":32,
-         "tiles":[
-                {
-                 "id":0,
-                 "properties":[
-                        {
-                         "name":"tilesetCopyright",
-                         "type":"string",
-                         "value":"cc0 https:\/\/tiles.rc3.world\/community\/bytewerk\/"
-                        }]
-                }],
          "tilewidth":32
         }, 
         {
@@ -577,16 +567,6 @@
          "spacing":0,
          "tilecount":256,
          "tileheight":32,
-         "tiles":[
-                {
-                 "id":0,
-                 "properties":[
-                        {
-                         "name":"tilesetCopyright",
-                         "type":"string",
-                         "value":"These tiles were originally created by First Seed Material for Rpg Maker 2003. And converted by [milkian](https:\/\/www.deviantart.com\/milkian) to be used in Rpg Maker VX or VX Ace."
-                        }]
-                }],
          "tilewidth":32
         }, 
         {
